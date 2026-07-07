@@ -1,6 +1,7 @@
 ---
 name: fable-mentorship
-description: Mandatory process discipline for non-trivial coding and agentic tasks. Load this at the start of ANY task that involves editing files in a repo, debugging a failure, running commands with side effects, or work expected to take more than one step — even if the user doesn't ask for "process" and even if the task looks easy. Triggers include: implement, fix, refactor, migrate, set up, debug, investigate, "make it work", multi-file changes, anything touching git/bash. Do not load for pure Q&A or single-line answers.
+description: >-
+Mandatory process discipline for non-trivial coding and agentic tasks. Load this at the start of ANY task that involves editing files in a repo, debugging a failure, running commands with side effects, or work expected to take more than one step — even if the user doesn't ask for "process" and even if the task looks easy. Triggers include: implement, fix, refactor, migrate, set up, debug, investigate, "make it work", multi-file changes, anything touching git/bash. Do not load for pure Q&A or single-line answers.
 ---
 
 # fable-mentorship
